@@ -40,6 +40,10 @@ h1{
     color: black;
     border: 1.5px solid black;
     border-radius: 1rem;
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    font-size: 30px;
 }
 
 .btn{
@@ -47,4 +51,5 @@ h1{
     width: 18.5vmin;
     background-color: #13363e;
     color: white;
+    font-size: 25px;
 }
